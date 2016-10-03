@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"8.11.1.1" "http://noc-teamfs01:8080/tfs/profit" "%24/CDBS PROFIT/Main/Source/%2a.sql" "C5700" "C5720"</StartArguments>
+  </PropertyGroup>
+</Project>

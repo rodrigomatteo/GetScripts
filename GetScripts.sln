@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSS.CS.TFS.GetScripts", "ConsoleApplication7\TSS.CS.TFS.GetScripts.csproj", "{339D9964-8DF6-4B46-BB2F-217536F6DF46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSS.CS.TFS.Client", "TSS.CS.TFS.Client\TSS.CS.TFS.Client.csproj", "{39689A96-9128-4D34-8DC6-506FD78ECDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSS.CS.TFS.Client.Test", "TSS.CS.TFS.Client.Test\TSS.CS.TFS.Client.Test.csproj", "{9C26C864-3B77-4F07-8859-C47B10D118A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339D9964-8DF6-4B46-BB2F-217536F6DF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339D9964-8DF6-4B46-BB2F-217536F6DF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339D9964-8DF6-4B46-BB2F-217536F6DF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339D9964-8DF6-4B46-BB2F-217536F6DF46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39689A96-9128-4D34-8DC6-506FD78ECDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39689A96-9128-4D34-8DC6-506FD78ECDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39689A96-9128-4D34-8DC6-506FD78ECDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39689A96-9128-4D34-8DC6-506FD78ECDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C26C864-3B77-4F07-8859-C47B10D118A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C26C864-3B77-4F07-8859-C47B10D118A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C26C864-3B77-4F07-8859-C47B10D118A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C26C864-3B77-4F07-8859-C47B10D118A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

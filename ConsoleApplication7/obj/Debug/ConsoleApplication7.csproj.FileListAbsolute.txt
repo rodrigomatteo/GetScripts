@@ -1,0 +1,11 @@
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Newtonsoft.Json.dll
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Microsoft.WITDataStore.dll
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\TSS.CS.TFS.Client.dll
+c:\users\rodrigo.matteo\documents\visual studio 2012\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\TSS.CS.TFS.Client.pdb
